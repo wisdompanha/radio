@@ -1,0 +1,95 @@
+{
+  "music": [
+    {
+      "id": "wake_up_01",
+      "title": "FM88.75MHz ភ្នំពេញ",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream//player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 10,
+      "duration": 90,
+      "site": "https://kangmeasfm.com"
+    },
+    {
+      "id": "wake_up_02",
+      "title": "FM88.70MHz ខេត្តកំពង់ស្ពឺ",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/7/player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": 63,
+      "site": "https://kangmeasfm.com"
+    },
+	{
+      "id": "wake_up_03",
+      "title": "FM96.75MHz ខេត្តកំពង់ចាម",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/3/player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": 160,
+      "site": "https://kangmeasfm.com"
+    },	
+	{
+      "id": "wake_up_04",
+      "title": "FM97.30MHz ខេត្តកំពង់ឆ្នាំង",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/4/player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": 160,
+      "site": "https://kangmeasfm.com"
+    },	
+	{
+      "id": "wake_up_05",
+      "title": "FM97.70MHz ខេត្តកំពង់ធំ",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/5/player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": 160,
+      "site": "https://kangmeasfm.com"
+    },	
+	{
+      "id": "wake_up_06",
+      "title": "FM88.70MHz ខេត្តពោធិ៏សាត់",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/6/player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": 160,
+      "site": "https://kangmeasfm.com"
+    },	
+	{
+      "id": "wake_up_07",
+      "title": "FM.88.70MHz ខេត្តព្រៃវែង",
+      "album": "វិទ្យុកងមាស",
+      "artist": "FB: Kangmeas Radio",
+      "genre": "វិទ្យុកងមាស",
+      "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/7/player.mp3",
+      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": 160,
+      "site": "https://kangmeasfm.com"
+    }
+  ]
+}
