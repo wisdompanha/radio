@@ -7,7 +7,7 @@
       "artist": "FB: Kangmeas Radio",
       "genre": "វិទ្យុកងមាស",
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream//player.mp3",
-      "image": "http://kangmeasfm.com/templates/frontend/km/images/logo.png",
+      "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 1,
       "totalTrackCount": 10,
       "duration": 90,
