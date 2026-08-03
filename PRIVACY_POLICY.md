@@ -1,4 +1,4 @@
-# Privacy Policy for KangMeas FM
+# Privacy Policy
 
 **Last updated: July 30, 2026**
 
