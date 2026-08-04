@@ -1,8 +1,8 @@
-# Privacy Policy
+# Privacy Policy for KangMeas FM
 
 **Last updated: July 30, 2026**
 
-Radio App ("we", "us", or "our") operates the Radio FM mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
+Kumpu App ("we", "us", or "our") operates the KangMeas FM mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
 ## 1. Information Collection and Use
 We do NOT collect any personally identifiable information (PII). The app is designed as a radio streaming client and does not require user registration or account creation.
