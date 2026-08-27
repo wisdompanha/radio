@@ -9,7 +9,7 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream//player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 1,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 90,
       "site": "https://kangmeasfm.com"
     },
@@ -22,7 +22,7 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/7/player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 2,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 63,
       "site": "https://kangmeasfm.com"
     },
@@ -35,7 +35,7 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/3/player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 3,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 160,
       "site": "https://kangmeasfm.com"
     },
@@ -48,7 +48,7 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/4/player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 4,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 160,
       "site": "https://kangmeasfm.com"
     },
@@ -61,7 +61,7 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/5/player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 5,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 160,
       "site": "https://kangmeasfm.com"
     },
@@ -74,7 +74,7 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/6/player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 6,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 160,
       "site": "https://kangmeasfm.com"
     },
@@ -87,35 +87,74 @@
       "source": "http://b8570c03cae1.sn.mynetname.net:8888/stream/7/player.mp3",
       "image": "https://raw.githubusercontent.com/wisdompanha/radio/main/ic_logo_background.png",
       "trackNumber": 7,
-      "totalTrackCount": 9,
+      "totalTrackCount": 12,
       "duration": 160,
       "site": "https://kangmeasfm.com"
     },
     {
       "id": "wake_up_08",
-      "title": "Radio Love FM 97.5MHz",
-      "album": "Love FM",
-      "artist": "Love FM Phnom Penh",
-      "genre": "Music",
-      "source": "https://radio99.servradio.com/9298/;",
-      "image": "http://cdn.onlineradiobox.com/img/l/5/68135.v6.png",
-      "trackNumber": 8,
-      "totalTrackCount": 9,
-      "duration": 0,
-      "site": "https://netlinkbroadcaster.com"
-    },
-    {
-      "id": "wake_up_09",
       "title": "LDP Radio FM",
       "album": "LDP Radio",
       "artist": "LDP Radio Phnom Penh",
       "genre": "News / Talk",
       "source": "https://streaming.radio.co/sd48fd711d/listen",
       "image": "http://cdn.onlineradiobox.com/img/l/3/42853.v3.png",
-      "trackNumber": 9,
-      "totalTrackCount": 9,
+      "trackNumber": 8,
+      "totalTrackCount": 12,
       "duration": 0,
       "site": "https://ldpradio.org"
+    },
+    {
+      "id": "wake_up_09",
+      "title": "Woman's Radio",
+      "album": "WMC Radio",
+      "artist": "Women's Media Centre of Cambodia",
+      "genre": "Culture / News",
+      "source": "https://a3.asurahosting.com/listen/women-radio/radio.mp3",
+      "image": "http://cdn.onlineradiobox.com/img/l/1/68131.v6.png",
+      "trackNumber": 9,
+      "totalTrackCount": 12,
+      "duration": 0,
+      "site": "https://wmc.org.kh"
+    },
+    {
+      "id": "wake_up_10",
+      "title": "Radio Samleng Khemara",
+      "album": "Samleng Khemara",
+      "artist": "Radio Samleng Khemara",
+      "genre": "News / Culture",
+      "source": "https://a10.asurahosting.com/listen/radio_samleng_khemara/radio.mp3",
+      "image": "https://cdn.onlineradiobox.com/img/l/5/72425.v6.png",
+      "trackNumber": 10,
+      "totalTrackCount": 12,
+      "duration": 0,
+      "site": "https://onlineradiobox.com"
+    },
+    {
+      "id": "wake_up_11",
+      "title": "popradio21",
+      "album": "Pop Radio 21",
+      "artist": "Pop Radio 21",
+      "genre": "Folk / Asian",
+      "source": "https://listen.radioking.com/radio/318317/stream/365846",
+      "image": "https://cdn.onlineradiobox.com/img/l/4/146524.v1.png",
+      "trackNumber": 11,
+      "totalTrackCount": 12,
+      "duration": 0,
+      "site": "https://radioking.com"
+    },
+    {
+      "id": "wake_up_12",
+      "title": "RNK FM (Radio National Kampuchea)",
+      "album": "RNK Radio",
+      "artist": "Radio National Kampuchea",
+      "genre": "News / Talk",
+      "source": "http://119.82.252.6:8181/broadwave.mp3",
+      "image": "https://cdn.onlineradiobox.com/img/l/1/42851.v4.png",
+      "trackNumber": 12,
+      "totalTrackCount": 12,
+      "duration": 0,
+      "site": "https://rnk.gov.kh"
     }
   ]
 }
