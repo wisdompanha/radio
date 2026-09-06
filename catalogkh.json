@@ -155,6 +155,111 @@
       "totalTrackCount": 12,
       "duration": 0,
       "site": "https://rnk.gov.kh"
+    },
+    {
+      "id": "tv_bayon",
+      "title": "Bayon TV HD",
+      "album": "Khmer Live TV",
+      "artist": "Bayon Television",
+      "genre": "TV",
+      "source": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/bayon.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "https://bayontv.com.kh"
+    },
+    {
+      "id": "tv_btv",
+      "title": "BTV News",
+      "album": "Khmer Live TV",
+      "artist": "BTV News Cambodia",
+      "genre": "TV",
+      "source": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/btv.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": ""
+    },
+    {
+      "id": "tv_fresh",
+      "title": "Fresh News TV",
+      "album": "Khmer Live TV",
+      "artist": "Fresh News Asia",
+      "genre": "TV",
+      "source": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/freshnews.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "http://freshnewsasia.com"
+    },
+    {
+      "id": "tv_pnn",
+      "title": "PNN TV",
+      "album": "Khmer Live TV",
+      "artist": "PNN Cambodia",
+      "genre": "TV",
+      "source": "http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/pnn.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "https://pnn.com.kh"
+    },
+    {
+      "id": "tv_tvk",
+      "title": "TVK (National TV)",
+      "album": "Khmer Live TV",
+      "artist": "TVK Cambodia",
+      "genre": "TV",
+      "source": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/tvk.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": ""
+    },
+    {
+      "id": "tv_apsara",
+      "title": "Apsara TV 11",
+      "album": "Khmer Live TV",
+      "artist": "Apsara Media Services",
+      "genre": "TV",
+      "source": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/apsara.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "https://ams.com.kh"
+    },
+    {
+      "id": "tv_ctv9",
+      "title": "CTV 9 HD",
+      "album": "Khmer Live TV",
+      "artist": "Channel 9 Cambodia",
+      "genre": "TV",
+      "source": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/ArryH/KhmerIPTV/master/logo/ctv9.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": ""
+    },
+    {
+      "id": "tv_eac",
+      "title": "EAC News TV",
+      "album": "Khmer Live TV",
+      "artist": "EAC News",
+      "genre": "TV",
+      "source": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8",
+      "image": "https://eac-news.com/img/logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "https://eac-news.com"
     }
+
   ]
 }
