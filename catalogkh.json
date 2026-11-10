@@ -300,6 +300,19 @@
       "site": ""
     },
     {
+      "id": "tv_ardb",
+      "title": "ARDB TV",
+      "album": "Khmer Live TV",
+      "artist": "ARDB TV Cambodia",
+      "genre": "TV",
+      "source": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+      "image": "https://i.imgur.com/e5j02tL.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "https://ardbtv.ardb.com.kh"
+    },
+    {
       "id": "tv_eac",
       "title": "EAC News TV",
       "album": "Khmer Live TV",
