@@ -232,7 +232,20 @@
       "trackNumber": 1,
       "totalTrackCount": 1,
       "duration": -1,
-      "site": ""
+      "site": "https://www.tvk.gov.kh/"
+    },
+    {
+      "id": "tv_tvk_2",
+      "title": "TVK 2",
+      "album": "Khmer Live TV",
+      "artist": "TVK Cambodia",
+      "genre": "TV",
+      "source": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+      "image": "https://i.imgur.com/L36ptO2.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": "https://www.tvk.gov.kh/"
     },
     {
       "id": "tv_hangmeas",
