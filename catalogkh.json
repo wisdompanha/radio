@@ -300,6 +300,19 @@
       "site": ""
     },
     {
+      "id": "tv_town",
+      "title": "Town TV",
+      "album": "Khmer Live TV",
+      "artist": "Town TV Cambodia",
+      "genre": "TV",
+      "source": "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8",
+      "image": "https://i.imgur.com/9fUGvVG.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": -1,
+      "site": ""
+    },
+    {
       "id": "tv_ardb",
       "title": "ARDB TV",
       "album": "Khmer Live TV",
